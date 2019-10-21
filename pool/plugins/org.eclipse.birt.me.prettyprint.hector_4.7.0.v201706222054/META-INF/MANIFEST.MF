@@ -1,0 +1,54 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.birt.me.prettyprint.hector;singleton:
+ =true
+Archiver-Version: Plexus Archiver
+Built-By: genie.birt
+Require-Bundle: org.eclipse.birt.core;bundle-version="4.2.2"
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse/birt.git;
+ path="data/org.eclipse.birt.me.prettyprint.hector";commitId=909d8fc3b
+ c76a6787b1d0b4a2c5dfb578950a875
+Bundle-Vendor: Eclipse BIRT Project
+Bundle-Name: Hector client library for Cassandra Scripted Data Source
+Bundle-Version: 4.7.0.v201706222054
+Created-By: Apache Maven 3.3.3
+Build-Jdk: 1.8.0_121
+Eclipse-BundleShape: dir
+
+Name: lib/cassandra-thrift-1.1.0.jar
+SHA-256-Digest: sfzOpTGsQS/ZXj+sxOXHYjRXa+cYyfK8uyj1cRs0t00=
+
+Name: about.html
+SHA-256-Digest: 6Fbu5rcTswd7m9KjaIXZkSlJiJ5y1vFXxTOZ0LbuL+4=
+
+Name: plugin.xml
+SHA-256-Digest: IWf7aUE5lClRVXbZiKj1lXfvR8MgvHOqtCGTt2EXtxE=
+
+Name: lib/slf4j-api-1.6.1.jar
+SHA-256-Digest: Ly1VbdDz/zA/g9TMh2J2ugjSog+qYoPD2cBKzWPC+MI=
+
+Name: lib/slf4j-license.html
+SHA-256-Digest: n7qm8DE9bv3Ri9Us5yQzFa/jwj4HsnDYL9nZ0l0ZmWY=
+
+Name: lib/guava-r09.jar
+SHA-256-Digest: JFBbyX2lD0QG7e15it3VTvub8d6xOtIzdv6a/byyDCA=
+
+Name: lib/hector-LICENSE
+SHA-256-Digest: gK83g2LeQgW5ClXvZ/NXyH5NkaxEC6JymXae4+XrQJ8=
+
+Name: lib/hector-core-1.1-2.jar
+SHA-256-Digest: 1reUk7+l/0hS6rvL/bgxy0I7PjTTRjMf7KvOtouZi9U=
+
+Name: lib/commons-lang-2.4.jar
+SHA-256-Digest: h5aRJGCXtmy7gydT5fwBFmMkJPCpiGfjTbWZcCNHl+g=
+
+Name: lib/README.txt
+SHA-256-Digest: FNaCCOzfnHQ2FOxSwqBMAQW05+qjwtPW1o2IKAUIR4s=
+
+Name: lib/libthrift-0.7.0.jar
+SHA-256-Digest: 81HPQD5wKZZUD1ko9gcB8aMO2v0nk/JY+IGSF9/4eJI=
+
+Name: lib/slf4j-nop-1.6.1.jar
+SHA-256-Digest: UOY7/u8op1P17iwOZM6ND1deGOYvbas/da72NtLK6bk=
+
